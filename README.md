@@ -1,3 +1,3 @@
 # counter
 1 eferalgan
-1 pizza
+2 pizza
