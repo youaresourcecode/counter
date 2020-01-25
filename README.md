@@ -1,3 +1,6 @@
 # counter
-2 eferalgan
-2 pizza
+3 eferalgan
+
+3 pizza
+
+#TODO: web that calculates how many days between these things...
